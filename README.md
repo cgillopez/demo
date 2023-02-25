@@ -2,7 +2,7 @@
 Mi primer repositorio de Git
 
 ## Ejemplos de texto
--- ~~Texto tachado~~
+-- ~~Texto tachado~~\n
 -- **Texto negrita**
 
 ## Ejemplos de tabla
